@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![GitHub Created At](https://img.shields.io/github/created-at/griteach/:carrot-market)
+![GitHub Created At](https://img.shields.io/github/created-at/griteach/carrot-market)
 
